@@ -3,6 +3,8 @@ gggg
 5555
 
 
+
+
 if OBJECT_ID ('dbo.Colors') is null----Софія
 CREATE TABLE dbo.Colors (
 	ID tinyint not null ,
