@@ -1,8 +1,7 @@
 gggg
 2222
 5555
-
-
+44444
 
 
 if OBJECT_ID ('dbo.Colors') is null----Софія
